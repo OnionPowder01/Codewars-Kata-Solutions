@@ -9,12 +9,14 @@ Each crew member adds 1.5 units to the ship draft. If after removing the weight 
 
 Add the method
 
-```isWorthIt
+```
+isWorthIt
 ```
 
 to decide if the ship is worthy to loot. For example:
 
-```titanic.isWorthIt() // return false
+```
+titanic.isWorthIt() // return false
 ```
 
 This Kata teaches you the very basics of method creation.
